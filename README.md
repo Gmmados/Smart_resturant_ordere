@@ -46,6 +46,7 @@ The program prompts for a customer name and age, a meal and drink selection, the
 ## output example
 <img width="595" height="585" alt="image" src="https://github.com/user-attachments/assets/b097e70c-2fe0-4dec-9422-fac294fe3703" />
 
+
 <img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/7c92e8a9-70a0-4a50-b0b3-76ffeedf150e" />
 
 <img width="791" height="686" alt="image" src="https://github.com/user-attachments/assets/de09450d-b368-4a4a-b8a3-2536ba8f9264" />
