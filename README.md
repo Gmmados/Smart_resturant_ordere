@@ -44,13 +44,17 @@ A simple Java console application that simulates placing an order at a restauran
 The program prompts for a customer name and age, a meal and drink selection, the number of drinks, whether the customer is a student, and a service rating from 1 to 5. It then displays a receipt with the calculated meal, drink, discount, tip, and final bill.
 
 ## output example
-<img width="713" height="375" alt="image" src="https://github.com/user-attachments/assets/45075cd0-a1eb-4cc5-8b5a-f0265f1e99a0" />
-
-<img width="791" height="686" alt="image" src="https://github.com/user-attachments/assets/de09450d-b368-4a4a-b8a3-2536ba8f9264" />
+<img width="595" height="585" alt="image" src="https://github.com/user-attachments/assets/b097e70c-2fe0-4dec-9422-fac294fe3703" />
 
 <img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/7c92e8a9-70a0-4a50-b0b3-76ffeedf150e" />
 
-<img width="595" height="585" alt="image" src="https://github.com/user-attachments/assets/b097e70c-2fe0-4dec-9422-fac294fe3703" />
+<img width="791" height="686" alt="image" src="https://github.com/user-attachments/assets/de09450d-b368-4a4a-b8a3-2536ba8f9264" />
+
+<img width="713" height="375" alt="image" src="https://github.com/user-attachments/assets/45075cd0-a1eb-4cc5-8b5a-f0265f1e99a0" />
+
+
+
+
 
 ## Learning topics
 
@@ -60,3 +64,5 @@ This project demonstrates Java variables and data types, console input with `Sca
 
 - [Telusko — Java Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
 - [W3Schools — Java Tutorial](https://www.w3schools.com/java/default.asp)
+
+  
